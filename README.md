@@ -44,6 +44,9 @@ Working dir -(add)-> index -(commit)->head ->remote repo ->remote server
 - git pull //go to master branch
 - git merge
 - git status
+- git checkout -b newbranch		//create new branch name newbranch
+- git checkout master				//going to branch master
+- git merge newbranch				//current branch is master, it will merge master file to newbranch
 
 #DeleteLocalRepoGit
 - rm -rf .git
