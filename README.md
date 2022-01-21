@@ -29,7 +29,12 @@
 - git push origin master
 - go to our fork project in github & create pull request
 - then owner of the project will merge if it ok
-
+  
+  ## Merge branch no1 into main
+  
+- git checkout no1	//create new branch name newbranch
+- git checkout master				//going to branch master
+- git merge no1				//current branch is master, it will merge master file to no1
 
 ## Delete branch
 
@@ -40,9 +45,6 @@
 - git pull //go to master branch
 - git merge
 - git status
-- git checkout -b newbranch		//create new branch name newbranch
-- git checkout master				//going to branch master
-- git merge newbranch				//current branch is master, it will merge master file to newbranch
 
 #DeleteLocalRepoGit
 - rm -rf .git
