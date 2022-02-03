@@ -32,9 +32,9 @@
   
   ## Merge branch no1 into main
   
-- git checkout no1	//create new branch name newbranch
-- git checkout master				//going to branch master
-- git merge no1				//current branch is master, it will merge master file to no1
+- git checkout -b newbranch	//create new branch name newbranch
+- git checkout newbranch				//going to branch newbranch
+- git merge master				//current branch is newbranch, it will merge master file to nebranch
 
 ## Delete branch
 
