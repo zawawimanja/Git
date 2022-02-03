@@ -1,3 +1,8 @@
 ##ERROR
 https://stackoverflow.com/questions/356323/cant-add-all-files-to-git-due-to-permissions
 1. Close VS first before add.
+
+
+#1 computer cannot have 2 user account for git
+so for practice with pull request just create a file in github and it will auto init for AccountB
+AccountA will fork and the pull request and merge it.
