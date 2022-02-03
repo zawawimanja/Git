@@ -6,3 +6,5 @@ https://stackoverflow.com/questions/356323/cant-add-all-files-to-git-due-to-perm
 #1 computer cannot have 2 user account for git
 so for practice with pull request just create a file in github and it will auto init for AccountB
 AccountA will fork and the pull request and merge it.
+
+AccountB just add new file in remote but when AccountA try to git pull in local still nothing changes.
