@@ -1,6 +1,6 @@
 Use vscode for staged changes and see any changes.
 After that use the github desktop
 
-when try to commit using vs code it will ask git username
+when try to commit using vs code& git bash it will ask git username
 
 when try to commit using github desktop it will work and can do the pull request
