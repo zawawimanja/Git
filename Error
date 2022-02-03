@@ -8,3 +8,4 @@ so for practice with pull request just create a file in github and it will auto 
 AccountA will fork and the pull request and merge it.
 
 AccountB just add new file in remote but when AccountA try to git pull in local still nothing changes.
+- already setup git auth still nothing changes for the files.
