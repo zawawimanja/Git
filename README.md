@@ -50,6 +50,9 @@
 
 #DeleteLocalRepoGit
 - rm -rf .git
+  
+  #Revert
+  - git revert commithash
 
 
 
